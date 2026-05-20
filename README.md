@@ -1,0 +1,2 @@
+# NumpyLibraries
+all easy notes
